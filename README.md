@@ -1,4 +1,4 @@
-## Available Scripts
+## robofriends
 
 In the project directory, you can run:
 
