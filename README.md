@@ -1,11 +1,7 @@
 ## robofriends
 
-In the project directory, you can run:
+To run the project: </br><br>
 
-### `npm start`robofriends 
-
-To run the project:
-
-Clone this repo
-Run npm install
+Clone this repo</br>
+Run npm install<br>
 Run npm start
